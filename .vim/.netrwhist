@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/hehg/dev2011/andr_r10.3/kernel_imx/arch/arm/mach-mx5'
+let g:netrw_dirhist_2='/home/hehg/dev2012/git/gitolite-admin/conf'
+let g:netrw_dirhist_3='/home/hehg/devweb_2012/python/learning/app_addrbook'
+let g:netrw_dirhist_4='/var/log'
